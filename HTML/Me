@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+  <meta charset="UTF-8">
+  <title>About Me</title>
+
+  <link rel="stylesheet" href="../CSS/Secondary.css">
+
+<style>
+  body{
+    background: url(../IMAGES/Me.jpeg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+</style>
+
+</head>
+
+<body>
+<meta charset="UTF-8">
+
+<div class="MeBox">
+  <h2 class="Me">
+    About Me
+  </h2>
+  <p class="me">
+    I graduated form the University of Pittsburgh with a passion for animals
+      throughout college I volunteered at local shelters where I had the opportunity
+      to provide animals love and care until a family comes and adopts them,
+      I feel like when selling puppies and cats it's important to send them to a home where they will 
+      receive plenty of love.
+  </p>
+</div>
+
+<ol>
+  <li style="float:left"><p class="title">Tracey's Pet Shop</p></li>
+  <div class="links">
+    <li style="float:right"><a href="connect.html">Connect</a></li>
+    <li style="float:right"><a href="services.html">Services</a></li>
+    <li style="float:right"><a href="index.html">Home</a></li>
+  </div>
+</ol>
+
+</body>
+</html>
