@@ -1,0 +1,271 @@
+div.MeBox{
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    padding: 10px 0px 10px;
+    background: rgba(0,0,0, .4);
+    position: relative;
+
+}
+
+.me{
+    padding: 0px 10px 0px 10px;
+    color: white;
+}
+
+.Me{
+    padding: 0px 10px 0px 10px;
+    font-family: 'Monotype Corsiva';
+    font-size: 35px;
+    font-weight: bold;
+    color: white;
+}
+
+
+ol {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background: rgba(0,0,0, .4);
+    z-index: 150;
+    margin-top: 176px;
+    position: relative;
+
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    padding: 14px 16px 14px 16px;
+    text-decoration: none;
+    font-size: larger;
+}
+
+li a:hover {
+    background-color: #111;
+}
+
+
+.title{
+    font-family: 'Monotype Corsiva';
+    padding: 0px 16px;
+    font-size: 35px;
+    font-weight: bold;
+    color: white;
+
+}
+
+.links{
+    padding-top: 28px;
+}
+
+.myServicesBox{
+    color: white;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    padding: 10px 10px 10px;
+    background: rgba(0,0,0, .4);
+    position: relative;
+}
+
+.services{
+    font-family: "Monotype Corsiva";
+    font-weight: bold;
+    font-size: 35px;
+}
+
+h4{
+    font-family: "Monotype Corsiva";
+    font-size: 20px;
+}
+
+.servicesNav{
+    margin-top: 100px;
+}
+
+.photoGrid{
+    padding 10px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 508px;
+}
+
+
+div.prices {
+    margin: 15px;
+    border: 2px solid gray;
+    float: left;
+    width: 220px;
+}
+
+div.prices img {
+    width: 100%;
+    height: auto;
+}
+
+
+.pricesFooter {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background: rgba(0,0,0, .4);
+    z-index: 150;
+    margin-top: 30px;
+    position: relative;
+    height: 110px;
+}
+
+.t1, .t2, .t3, .t4, .t5, .t6 {
+    font-family: "Monotype Corsiva";
+    text-align: center;
+}
+
+.connectBox {
+    color: white;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    padding: 10px 10px 10px;
+    background: rgba(0,0,0, .4);
+    position: relative;
+    height: 420px;
+}
+
+.photoGrid {
+    width: 600px;
+    margin-left: 30px;
+    margin-right: auto;
+}
+
+.image{
+    float: left;
+    margin: 10px;
+}
+
+.connectFoot {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background: rgba(0,0,0, .4);
+    z-index: 150;
+    margin-top: 50px;
+    position: relative;
+}
+
+
+.SS{
+    display: inline-block;
+    margin-left: 10px;
+    margin-right: 10px;
+    float: left;
+    padding: 10px;
+
+}
+
+.SS:hover{
+    border-radius: 50%;
+}
+
+.myworkFoot {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background: rgba(0,0,0, .4);
+    z-index: 150;
+    margin-top: 55px;
+    position: relative;
+}
+
+.mylinks {
+    padding: 28px;
+}
+
+.pricestitle {
+    font-family: 'Monotype Corsiva';
+    padding: 28px 16px;
+    font-size: 35px;
+    font-weight: bold;
+    color: white;
+}
+
+.priceslinks {
+    display: block;
+    color: white;
+    padding: 30px 16px 14px 16px;
+    text-decoration: none;
+    float: right;
+    font-family: "Times New Roman";
+    font-size: larger;
+}
+
+#myCarousel {
+    width: 600px;
+    height: 400px;
+    margin-left: 265px;
+}
+
+.item {
+    margin-left: 70px;
+    margin-top: 10px;
+}
+
+.contactbutton {
+    margin-left: 257px;
+}
+
+
+ul.tab {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    border: 1px solid #ccc;
+    background-color: #f1f1f1;
+    text-align: center;
+}
+
+ul.tab li {
+    float: none !important;
+    display: inline-block;
+}
+
+ul.tab li a {
+    display: inline-block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    transition: 0.3s;
+    font-size: 17px;
+}
+
+ul.tab li a:hover {
+    background-color: #ddd;
+}
+
+ul.tab li a:focus, .active {
+}
+
+.tabcontent {
+    display: none;
+    padding: 6px 12px;
+    border: 1px solid #ccc;
+    border-top: none;
+}
+
+.tabs{
+    font-family: "Monotype Corsiva";
+    text-align: center;
+}
